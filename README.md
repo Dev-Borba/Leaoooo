@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Gabriel Borba, desenvolvedor e estudante de Análise e desenvolvimento de sistemas 🖐🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borba-a9832b239/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gabriel-borba-the-animator)
 
 ![Borba GitHub stats](https://github-readme-stats.vercel.app/api?username=Leaoooo&show_icons=true&theme=dracula)
 
