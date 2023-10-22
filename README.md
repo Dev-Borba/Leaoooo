@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Borba 🖐🏽
+### Olá! Eu sou o Gabriel Borba, desenvolvedor e estudante de Análise e desenvolvimento de sistemas 🖐🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borba-a9832b239/)
 
